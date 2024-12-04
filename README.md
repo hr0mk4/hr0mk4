@@ -1,4 +1,4 @@
-## I'm Fedchenko Danil Olegovich, the student of M. V. Lomonosov Moscow State University, Faculty of Computational Mathematics and Cybernetics 👋
+## Fedchenko Danil Olegovich, the student of M. V. Lomonosov Moscow State University, Faculty of Computational Mathematics and Cybernetics 👋
 
 <!--
 **hr0mk4/hr0mk4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
